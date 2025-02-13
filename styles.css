@@ -142,3 +142,77 @@ body {
   display: flex;
   flex-direction: column;
 }
+.footer{
+    margin-top: 188px;
+    justify-content: space-between;
+    background-color: #201F1D;
+    width: 100%;
+    display: flex;
+}
+.footer-logo{
+    padding-top: 20px;
+    padding-left: 150px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+#gk{
+    font-size: 48px;
+    font-family: "Montserrat";
+    color: white;
+    font-weight: lighter;
+    text-align: left;
+    margin: 0px;
+    padding-bottom: 25px;
+}
+.fs{
+    display: flex;
+    padding: 60px;
+    padding-right: 150px;
+}
+
+.footer-links{
+    padding-right: 50px;
+    font-size: 18px;
+    font-family: "poppins";
+    color: white;
+    font-weight: lighter;
+    text-align: left;
+}
+.footer-contact{
+    font-size: 18px;
+    font-family: "poppins";
+    color: white;
+    font-weight: lighter;
+    text-align: left;
+    
+}
+#links{
+    font-size: 26px;
+    font-weight: bolder;
+}
+#contact{
+    font-size: 26px;
+    font-weight: bolder;
+}
+.email{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.location{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.sm{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
